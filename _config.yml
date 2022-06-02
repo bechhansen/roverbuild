@@ -22,7 +22,7 @@ title: Rover model
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Building a 1:4 scale RC model of the Perserverence mars rover.
-baseurl: "/roverbuild" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://rover.monz.dk" # the base hostname & protocol for your site, e.g. https://rover.monz.dk
 twitter_username: bechhansen
 #github_username:  jekyll
