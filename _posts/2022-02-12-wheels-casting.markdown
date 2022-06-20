@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Wheel casting"
-date:   2022-06-20
+date:   2022-02-12
 categories: casting
 ---
 ![Wheel]({{site.baseurl}}/assets/IMG_5467.png)
