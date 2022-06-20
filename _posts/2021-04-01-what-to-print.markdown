@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What to print?"
-date:   2021-04-01 00:00:00 +0100
+date:   2021-04-01
 categories: 3D-print
 ---
 

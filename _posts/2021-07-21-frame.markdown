@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Frame"
+date:   2021-07-21
+categories: frame
+---
+
+![Frame parts]({{site.baseurl}}/assets/IMG_5066.png)
+
+![Frame]({{site.baseurl}}/assets/IMG_5068.png)
