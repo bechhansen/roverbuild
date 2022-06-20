@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Wheel spokes"
+date:   2022-02-20
+categories: 3D-print
+---
+
+![Spoke parts]({{site.baseurl}}/assets/IMG_5705.png)
+
+![Glued spoke]({{site.baseurl}}/assets/IMG_5704.png)

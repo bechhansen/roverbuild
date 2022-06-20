@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Spokes and hub paint job"
+date:   2022-06-20
+categories: paint
+---
+
+![Painted spokes]({{site.baseurl}}/assets/IMG_5702.png)
+
+![Painted spokes]({{site.baseurl}}/assets/IMG_5703.png)
+
+![Painted hub]({{site.baseurl}}/assets/IMG_5706.png)
