@@ -7,6 +7,6 @@ layout: home
 
 Build status
 
-![Current status]({{site.baseurl}}/assets/IMG_5542.png)
+![Current status]({{site.baseurl}}/assets/IMG_5725.png)
 
 
