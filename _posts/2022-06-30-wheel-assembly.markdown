@@ -11,3 +11,5 @@ categories: wheel
 
 ![Wheels]({{site.baseurl}}/assets/IMG_5720.png)
 
+![Progress]({{site.baseurl}}/assets/IMG_5725.png)
+
