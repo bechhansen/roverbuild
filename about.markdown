@@ -10,3 +10,5 @@ Every part is designed and created from scratch. All 3D-parts are modelled in [F
 
 This site is dedicated to document the build process[.](https://docs.google.com/presentation/d/1rgkXlf8cPuk7vK5TusMCs1gbg2yJ7uGyC3NX0Usd83k/edit?usp=sharing) 
 
+![Parts]({{site.baseurl}}/assets/1667988182336.jpeg)
+
